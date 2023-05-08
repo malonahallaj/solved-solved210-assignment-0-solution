@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved210-assignment-0-solution
+<br>
+1. Download the “HelloCS210.java” file, modify it so that it will outputHello CS 210, my name is FirstName LastName.where FirstName is your first name, LastName is your last name. (For example: I should output the following: Hello CS 210, my name is Winnie Li).2. Submit the final HelloCS210.java file online. (DO NOT change the file name)3. Print the output of the code (screenshot), which should include your code and the output screen. Then, insert it into a Word document. See example below:4. Name the file as “LastnameFirstname0.doc” (or “.docx” or “.pdf”, where “Lastname” is your last name, and “Firstname” is your first name), submit it online.
